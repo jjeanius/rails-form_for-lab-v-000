@@ -1,7 +1,7 @@
 require 'pry'
 module SchoolClassesHelper
 
-  def concat_strings(strings)
+  def string concat(strings)#concat_strings(strings)
      new_arr = strings.split("")
      binding.pry
   end
