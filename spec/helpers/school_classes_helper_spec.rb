@@ -17,4 +17,3 @@ RSpec.describe SchoolClassesHelper, type: :helper do
        end
      end
    end
-end
